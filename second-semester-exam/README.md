@@ -1,4 +1,4 @@
-```## **Deployment**
+## **Deployment**
 **Public IP**
 
 16.171.38.4
@@ -6,6 +6,8 @@
 **Landing page**
 
 [Live Link](https://adadev.crabdance.com)
+
+
 ![Landing page Screenshot](Altschool.png)
 
 
@@ -170,4 +172,4 @@ sudo nginx -t
 sudo systemctl reload nginx
 ```
 
-Your should now be able to view your page securely over **HTTPS**!```
+Your should now be able to view your page securely over **HTTPS**!
